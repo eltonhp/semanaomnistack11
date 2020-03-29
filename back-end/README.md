@@ -1,6 +1,6 @@
 Comandos
 
-`init -y`: Inicia o projeto
+`init -y`: Inicia o projeto.
 
 ## Instalações das dependências
 `npm install express`: Biblioteca para utilizar o servidor; <br/>
