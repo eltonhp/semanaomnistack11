@@ -15,4 +15,4 @@ Comandos
 `npx knex migrate make:<nome da tabela>`: cria o arquivo de configuração de uma tabela; <br/>
 `npx knex migrate:latest`: Cria as tabelas; <br/>
 
-`npm start`: inicia o servidor
+
