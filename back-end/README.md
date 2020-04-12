@@ -14,5 +14,19 @@ Comandos
 `npx knex init`: Comando para iniciar o script de configuração das DDL; <br/>
 `npx knex migrate make:<nome da tabela>`: cria o arquivo de configuração de uma tabela; <br/>
 `npx knex migrate:latest`: Cria as tabelas; <br/>
+`npm install celebrate`: Validação de javascript
+`npm install jest`: Framework de Test
+`npm install cross-env`: Serve para diferenciar o ambiente de test
+
+## Deploy
+
+* keroku 
+* digital ocean
+* aws
+* google cloud
+* azure (eizer)
+* netlify (específico para front end)
+
+
 
 
